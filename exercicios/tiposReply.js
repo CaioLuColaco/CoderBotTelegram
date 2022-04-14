@@ -13,7 +13,6 @@ bot.start(async ctx => {
         {caption: "Boa tarde gurizada"})
     await ctx.replyWithLocation(-3.748428, -38.493785)
     // await ctx.replyWithVideo('http://filex.cod3r.com.br/curso-bot/cod3r-end.m4v')
-    // await ctx.reply()
 })
 
 bot.startPolling()
